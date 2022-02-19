@@ -2,7 +2,7 @@
  ```im kat
 i code in c# and js
 im currently learning cpp & py
-floofo@email.com
+email me at floofo@email.com
 ```
 
 <!--
